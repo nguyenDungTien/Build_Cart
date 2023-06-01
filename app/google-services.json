@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "718564629119",
+    "firebase_url": "https://build-cart-4cda4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "build-cart-4cda4",
+    "storage_bucket": "build-cart-4cda4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718564629119:android:af249031e8452a4060fd4a",
+        "android_client_info": {
+          "package_name": "com.example.buildcart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5yT2BThkbflJZA-w_5JZOvPzdBvkskI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
